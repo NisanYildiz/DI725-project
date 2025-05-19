@@ -1,0 +1,44 @@
+{"time":"2025-05-17T16:38:03.503205492Z","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/content/drive/MyDrive/DI725/DI725-project/wandb/run-20250517_163803-et1m8xwr/logs/debug-core.log"}
+{"time":"2025-05-17T16:38:03.839189755Z","level":"INFO","msg":"created new stream","id":"et1m8xwr"}
+{"time":"2025-05-17T16:38:03.839743939Z","level":"INFO","msg":"stream: started","id":"et1m8xwr"}
+{"time":"2025-05-17T16:38:03.839778228Z","level":"INFO","msg":"writer: Do: started","stream_id":"et1m8xwr"}
+{"time":"2025-05-17T16:38:03.839792696Z","level":"INFO","msg":"sender: started","stream_id":"et1m8xwr"}
+{"time":"2025-05-17T16:38:03.839833912Z","level":"INFO","msg":"handler: started","stream_id":"et1m8xwr"}
+{"time":"2025-05-17T16:38:04.844375649Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-17T16:38:15.228478329Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-17T16:38:15.333258262Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-17T16:40:23.576450932Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-17T16:40:23.602202765Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-17T16:40:27.052552447Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-17T16:40:28.342619834Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-17T16:40:32.43163989Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-17T16:40:32.442908155Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-17T16:40:46.613993952Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-17T23:00:20.487887597Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.28.0.12:40364->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-05-18T01:59:04.392743821Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-18T01:59:06.054484371Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-18T01:59:06.094851426Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-18T01:59:06.095040203Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-18T01:59:26.927072148Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-18T01:59:26.930494027Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-18T01:59:26.934351904Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-18T01:59:26.939878379Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-18T01:59:27.878620077Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-18T02:02:27.908269823Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-18T02:02:27.948888809Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-18T02:02:36.744324649Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-18T03:42:24.846762726Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-18T04:48:39.641123002Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-18T04:48:39.681846762Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-18T04:49:16.631949717Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-18T04:49:16.673910631Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-18T04:50:59.647925631Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-18T04:50:59.688881972Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-18T04:51:05.31583172Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-18T04:51:05.323174179Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-18T04:51:43.474238764Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-18T04:51:43.67127235Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-18T04:59:33.261294774Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-18T04:59:33.301889486Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-18T05:01:14.112875377Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-18T05:01:14.152880226Z","level":"INFO","msg":"Resuming system monitor"}
